@@ -258,7 +258,8 @@ RUN R -e 'BiocManager::install(c( \
   "uwot", \
   "VennDiagram", \
   "viridis", \
-  "vroom" \
+  "vroom", \
+  "plotly"\
   ))'
 
 
